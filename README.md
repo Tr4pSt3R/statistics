@@ -1,0 +1,2 @@
+# statistics
+small statistical calculator
